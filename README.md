@@ -15,23 +15,23 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 <br><br>
 <br><br>
 ## Experimental Results
-#### Result #1 for test images of backlighting conditions
+#### Proposed HDRI results
 <p align="center">
-<img src="/Paper_Images/Figure_Exp_Rst_BL1.png" width="700"> 
-<img src="/Paper_Images/Figure_Exp_Rst_BL2.png" width="700"> 
+<img src="/Figures/Proposed_HDRI.png" width="700"> 
 </p>
 
-##### [Results for the image.From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
-
-#### Result #2 for test images of low light conditions
+#### Super-resolved results by VDSR
 <p align="center">
-<img src="/Paper_Images/Figure_Exp_Rst_Low1.png" width="700"> 
-<img src="/Paper_Images/Figure_Exp_Rst_Low2.png" width="700"> 
+<img src="/Figures/Proposed_VDSR.png" width="700"> 
 </p>
 
-##### [Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
-
-#### Result #3 for a test image of low light conditions
+#### HDR-SR test results
 <p align="center">
-<img src="/Paper_Images/Figure_Exp_Rst_NonUni.png" width="700"> 
+<img src="/Figures/Exp_VisualComp_C11.png" width="700"> 
+</p>
+<p align="center">
+<img src="/Figures/Exp_VisualComp_C27.png" width="700"> 
+</p>
+<p align="center">
+<img src="/Figures/Exp_VisualComp_C33.png" width="700"> 
 </p>
