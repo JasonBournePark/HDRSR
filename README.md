@@ -28,7 +28,7 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 <p align="center">
 <img src="/Figures/Fig_HDRI_Comparison.png" width="700"> 
 </p>
-#### [Visual comparison of enhanced images from the MMPSG LDR images. (From left to right) input LDR images, enhanced images by FbEM, LIME, NPEA and the proposed algorithm.]
+##### [Visual comparison of enhanced images from the MMPSG LDR images. (From left to right) input LDR images, enhanced images by FbEM, LIME, NPEA and the proposed algorithm.]
 
 #### □ Super-resolved results by VDSR
 <p align="center">
