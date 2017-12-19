@@ -46,5 +46,5 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 <img src="/Figures/Exp_VisualComp_C33.png" width="700"> 
 </p>
 <p align="center">
-<img src="/Figures/Exp_VisualComp_C35.png" width="700"> 
+<img src="/Figures/Fig_Exp_VisualComp_C35.png" width="700"> 
 </p>
