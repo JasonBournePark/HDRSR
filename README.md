@@ -18,23 +18,24 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 #### [LIME] LIME: Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
 <br><br>
 <br><br>
+
 ## Experimental Results
 #### □ Proposed HDRI results
 <p align="center"><img src="/Figures/Proposed_HDRI.png" width="700"></p>
-##### An example of our HDRI process; (top left) input LDR, (top right) output HDR image; (the second row) generated virtual illuminations Ik; (the third row) reproduced Yk; (the last row) weight maps wk. 
+An example of our HDRI process; (top left) input LDR, (top right) output HDR image; (the second row) generated virtual illuminations I_k; (the third row) reproduced Y_k; (the last row) weight maps w_k. 
 <br><br>
 
 <p align="center">
 <img src="/Figures/Fig_HDRI_Comparison.png" width="700"> 
 </p>
-##### [Visual comparison of enhanced images from the MMPSG LDR images. (From left to right) input LDR images, enhanced images by FbEM, LIME, NPEA and the proposed algorithm.]
+Visual comparison of enhanced images from the MMPSG LDR images. (From left to right) input LDR images, enhanced images by FbEM, LIME, NPEA and the proposed algorithm.
 <br><br>
 
 #### □ Super-resolved results by VDSR
 <p align="center">
 <img src="/Figures/Proposed_VDSR.png" width="700"> 
 </p>
-##### [HR images by interpolation and VDSR; (from left to right) interpolated HR image, input HR image and super-resolved HR image by VDSR.]
+HR images by interpolation and VDSR; (from left to right) interpolated HR image, input HR image and super-resolved HR image by VDSR.
 <br><br>
 
 #### □ HDR-SR test results
