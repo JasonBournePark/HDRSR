@@ -45,22 +45,22 @@ Visual comparison for an image of natural scene, (a) reference LDR/HR image, (b)
 <img src="/Figures/small_Exp_VisualComp_C11.png" width="500"> 
 </p>
 <br><br>
-*this is samll-size sample image, please download the original image to compare the results.
+*this is small-size sample image, please download the original image to compare the results.
 
 <p align="center">
 <img src="/Figures/small_Exp_VisualComp_C27.png" width="500"> 
 </p>
 <br><br>
-*this is samll-size sample image, please download the original image to compare the results.
+*this is small-size sample image, please download the original image to compare the results.
 
 <p align="center">
 <img src="/Figures/small_Exp_VisualComp_C33.png" width="500"> 
 </p>
 <br><br>
-*this is samll-size sample image, please download the original image to compare the results.
+*this is small-size sample image, please download the original image to compare the results.
 
 <p align="center">
 <img src="/Figures/small_Fig_Exp_VisualComp_C35.png" width="500"> 
 </p>
 <br><br>
-*this is samll-size sample image, please download the original image to compare the results.
+*this is small-size sample image, please download the original image to compare the results.
