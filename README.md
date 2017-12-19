@@ -10,12 +10,12 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 <br><br>
 ## Related Work
 ### CNN-based Single Image Super Reolution
-#### [SRCNN] Accurate image super-resolution using very deep convolutional networks <paper-button> <a href="http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html">Link</a> </paper-button>
-#### [VDSR] LIME: Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="https://arxiv.org/abs/1511.04587">Link</a> </paper-button>
+#### [SRCNN] Image Super-Resolution Using Deep Convolutional Networks <paper-button> <a href="http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html">Link</a> </paper-button>
+#### [VDSR] Accurate Image Super-Resolution Using Very Deep Convolutional Networks <paper-button> <a href="https://arxiv.org/abs/1511.04587">Link</a> </paper-button>
 ### Image Enhancement and HDR Imaging
 #### [FbEM] A fusion-based enhancing method for weakly illuminated images <paper-button> <a href="http://www.sciencedirect.com/science/article/pii/S0165168416300949">Link</a> </paper-button>
 #### [NPEA] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
-#### [LIME] LIME: Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
+#### [LIME] Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
 <br><br>
 <br><br>
 
