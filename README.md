@@ -1,7 +1,7 @@
 # HDRSR
 This paper presents an algorithm for high dynamic range (HDR) and super-resolution (SR) imaging from a single image.
 <br><br>
-## Title of this work
+## Title of this Work
 high dynamic range and super resolution imaging system
 <br><br>
 ## Abstract
@@ -15,3 +15,23 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 <br><br>
 <br><br>
 ## Experimental Results
+#### Result #1 for test images of backlighting conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_BL1.png" width="700"> 
+<img src="/Paper_Images/Figure_Exp_Rst_BL2.png" width="700"> 
+</p>
+
+##### [Results for the image.From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
+
+#### Result #2 for test images of low light conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_Low1.png" width="700"> 
+<img src="/Paper_Images/Figure_Exp_Rst_Low2.png" width="700"> 
+</p>
+
+##### [Results for the image. From top left to bottom right: input image, result of CLAHE, CVC, MSR, FbEM,	LIME, NPEA and proposed method.]
+
+#### Result #3 for a test image of low light conditions
+<p align="center">
+<img src="/Paper_Images/Figure_Exp_Rst_NonUni.png" width="700"> 
+</p>
