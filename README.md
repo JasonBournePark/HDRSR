@@ -16,7 +16,10 @@ This paper presents an algorithm for high dynamic range (HDR) and super-resoluti
 #### [NPEA] Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images <paper-button> <a href="http://ieeexplore.ieee.org/document/6512558/">Link</a> </paper-button>
 #### [LIME] Low-Light Image Enhancement via Illumination Map Estimation <paper-button> <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7782813">Link</a> </paper-button>
 <br><br>
-
+## Implementation
+#### HDR Imaging (To be uploaded)
+#### CNN-based Super Resolution Imaging (To be uploaded)
+<br><br>
 ## Experimental Results
 #### □ Proposed HDRI results
 <p align="center"><img src="/Figures/Proposed_HDRI.png" width="700"></p>
