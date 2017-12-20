@@ -1,3 +1,5 @@
+* More contents will be disclosed after finishing review process.
+
 # HDRSR
 This paper presents an algorithm for high dynamic range (HDR) and super-resolution (SR) imaging from a single image.
 <br><br>
